@@ -1,0 +1,30 @@
+.head{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: blueviolet;
+  font-weight: bold;
+  
+}
+
+body{
+  background:seashell ;
+}
+
+.font{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+}
+
+.table{
+  background-color: blueviolet;
+  
+}
+
+.link{
+  color:darkviolet;
+}
+
+.logo{
+  height:40px;
+  width: 40px;
+
+}
